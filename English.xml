@@ -101,27 +101,27 @@
 		<Msg ID="72" Text="Monstros eliminados! Destrua os portões do Castelo!!" />
 		<Msg ID="73" Text="Os portões de Blood Castle foram demolidos !!!" />
 		<Msg ID="74" Text="você entrou no Blood Castle %d" />
-		<Msg ID="75" Text="%s has acquired the Divine Staff of Archangel." />
-		<Msg ID="76" Text="%s has acquired the Divine Sword of Archangel." />
-		<Msg ID="77" Text="%s has acquired the Divine Crossbow of Archangel." />
-		<Msg ID="78" Text="You have %d stone(s) currently registered." />
-		<Msg ID="79" Text="%s has demolished the Castle Gates!" />
-		<Msg ID="80" Text="%s has demolished the Crystal Statue!" />
-		<Msg ID="81" Text="Kundun's minions have been subdued! Destroy the Crystal Statue!" />
-		<Msg ID="82" Text="The equipment has been changed." />
-		<Msg ID="83" Text="You are already in a Duel." />
-		<Msg ID="84" Text="In order to issue a Duel, cancel the previous request." />
-		<Msg ID="85" Text="The name of the character you have challenged is incorrect." />
-		<Msg ID="86" Text="Your challenge to Duel has been refused." />
-		<Msg ID="87" Text="You cannot challenge someone to a duel while in a guild war." />
-		<Msg ID="88" Text="Your opponent cannot duel while in a guild war." />
-		<Msg ID="89" Text="You cannot Duel inside Blood Castle." />
-		<Msg ID="90" Text="You cannot Duel while trading." />
-		<Msg ID="91" Text="%s is trading an item." />
-		<Msg ID="92" Text="%s has already accepted a challenge to Duel." />
-		<Msg ID="93" Text="%s issues a Duel challenge." />
-		<Msg ID="94" Text="%s is in a Duel." />
-		<Msg ID="95" Text="Challenged %s to a Duel." />
+		<Msg ID="75" Text="%s adquiriu a Divine Staff of Archangel." />
+		<Msg ID="76" Text="%s adquiriu Divine Sword of Archangel." />
+		<Msg ID="77" Text="%s adquiriu Divine Crossbow of Archangel." />
+		<Msg ID="78" Text="Você tem %d stone(s) registrado atualmente." />
+		<Msg ID="79" Text="%s demoliu os portões do castelo!" />
+		<Msg ID="80" Text="%s demoliu a estátua de cristal!" />
+		<Msg ID="81" Text="Os minions de Kundun foram detonados! Destrua a estátua de cristal!" />
+		<Msg ID="82" Text="O equipamento foi alterado." />
+		<Msg ID="83" Text="Você já está em um duelo." />
+		<Msg ID="84" Text="Para pedir um duelo, cancele a solicitação anterior." />
+		<Msg ID="85" Text="O nome do personagem que você desafiou está incorreto." />
+		<Msg ID="86" Text="Seu desafio para duelo foi recusado." />
+		<Msg ID="87" Text="Você não pode desafiar alguém a um duelo enquanto estiver em uma guerra de guilds." />
+		<Msg ID="88" Text="Seu oponente não pode duelar enquanto estiver em uma guerra de guilds." />
+		<Msg ID="89" Text="Você não pode duelar dentro do Blood Castle." />
+		<Msg ID="90" Text="Você não pode duelar durante a negociação." />
+		<Msg ID="91" Text="%s está negociando um item." />
+		<Msg ID="92" Text="%s já aceitou um desafio para duelo." />
+		<Msg ID="93" Text="%s criou um desafio de duelo." />
+		<Msg ID="94" Text="%s está em um duelo." />
+		<Msg ID="95" Text="Desafiado %s para um duelo." />
 		<Msg ID="96" Text="You are already issuing a Duel challenge." />
 		<Msg ID="97" Text="Duelling is not allowed in NON-PK servers." />
 		<Msg ID="98" Text="An outlaw cannot issue a Duel challenge." />
