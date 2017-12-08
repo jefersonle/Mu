@@ -28,79 +28,79 @@
 <Language>
 	<Message>
 		<Msg ID="1" Text="GameServer Fechado" />
-		<Msg ID="2" Text="Server will close automatically in %d second(s)" />
-		<Msg ID="3" Text="You cannot enter this area while using the Unicorn" />
-		<Msg ID="4" Text="[Devil Square] Os portões para Devil Square est'ao abertos!" />
+		<Msg ID="2" Text="O servidor fechará automaticamente em %d segundo (s)" />
+		<Msg ID="3" Text="Você não pode entrar nesta área enquanto usa o Unicórnio" />
+		<Msg ID="4" Text="[Devil Square] Os portões para Devil Square estão abertos!" />
 		<Msg ID="5" Text="[Devil Square] Faltam %d minuto(s) para a abertura do evento!" />
 		<Msg ID="6" Text="[Devil Square] vai começar em %d minuto(s)" />
 		<Msg ID="7" Text="[Devil Square] vai fechar em %d minuto(s)" />
 		<Msg ID="8" Text="[Devil Square] o evento começou." />
 		<Msg ID="9" Text="[Devil Square] está fechado. Tente da próxima vez." />
-		<Msg ID="10" Text="Failed. Your score is %d. Try again next time." />
-		<Msg ID="11" Text="Chaos combination is ongoing." />
-		<Msg ID="12" Text="Trading is not allowed in Devil Square." />
-		<Msg ID="13" Text="Special Game is not available" />
-		<Msg ID="14" Text="%s has logged out. Trading will be cancelled." />
-		<Msg ID="15" Text="This is an illegal duplicated item. Contact a GM." />
-		<Msg ID="16" Text="You have %d points left to get rid of the outlaw status." />
-		<Msg ID="17" Text="You have registered No.%d heart item(s)" />
-		<Msg ID="18" Text="Sorry, better luck next time." />
-		<Msg ID="19" Text="%s is the lucky winner of the Love PangPang event." />
-		<Msg ID="20" Text="You are going to party with %s" />
-		<Msg ID="21" Text="%s is already in a party." />
-		<Msg ID="22" Text="You are connecting as free user." />
-		<Msg ID="23" Text="You have %d minute(s) remaining for IP usage (%s)" />
-		<Msg ID="24" Text="This account is valid until %2d %2d %4d (%s)" />
-		<Msg ID="25" Text="This IP is valid until %2d %2d %4d (%s)" />
-		<Msg ID="26" Text="You have logged in with a postpaid account (%s)" />
-		<Msg ID="27" Text="Self defense is initiated by %s's attack!" />
-		<Msg ID="28" Text="Self defense against %s diminishes." />
-		<Msg ID="29" Text="You have %d second(s) left before exiting the game." />
-		<Msg ID="30" Text="You must be over level %d to can access this location." />
-		<Msg ID="31" Text="You cannot get the item" />
-		<Msg ID="32" Text="You are now accepting all requests from other players." />
-		<Msg ID="33" Text="You are now rejecting all requests from other players." />
-		<Msg ID="34" Text="I will not sell to criminals like you!!!" />
-		<Msg ID="35" Text="More business with me? " />
-		<Msg ID="36" Text="Look for it elsewhere!" />
-		<Msg ID="37" Text="You're short of zen." />
-		<Msg ID="38" Text="Server will shut-down automatically in 5 minutes." />
-		<Msg ID="39" Text="Server will shut-down automatically in 3 minutes." />
-		<Msg ID="40" Text="Server will shut-down automatically in 1 minute." />
-		<Msg ID="41" Text="Warning! Another user is trying to connect using this account." />
-		<Msg ID="42" Text="Defense setting" />
-		<Msg ID="43" Text="Close the trading window and exit" />
-		<Msg ID="44" Text="Close the vault and exit" />
-		<Msg ID="45" Text="You are reached a maximum level" />
-		<Msg ID="46" Text="Warning! You will become an Outlaw if you kill anyone else again." />
-		<Msg ID="47" Text="The trade has been cancelled " />
-		<Msg ID="48" Text="You already belong to a guild" />
-		<Msg ID="49" Text="Your level should be at least level 100" />
-		<Msg ID="50" Text="All items you're wearing should be at least +7 level." />
-		<Msg ID="51" Text="We do not sell Ale here!" />
-		<Msg ID="52" Text="Tough times are putting us out of business." />
-		<Msg ID="53" Text="I'm not selling anything to the likes of you." />
-		<Msg ID="54" Text="I will not aid criminals like you! Look elsewhere." />
-		<Msg ID="55" Text="Merry Christmas!" />
-		<Msg ID="56" Text="Happy New Year!" />
-		<Msg ID="57" Text="The Trade function will be disabled for a while." />
-		<Msg ID="58" Text="Please be patient. Trading will be enabled soon." />
-		<Msg ID="59" Text="Close the Chaos Machine window before you EXIT the game." />
-		<Msg ID="60" Text="This item does not belong to you, %s" />
-		<Msg ID="61" Text="Because of %s's request, the match will end automatically in 10 second(s)" />
-		<Msg ID="62" Text="The match starts automatically in 10 second(s)" />
-		<Msg ID="63" Text="Dragon Invasion" />
-		<Msg ID="64" Text="%s, Golden Dragon Invasion" />
-		<Msg ID="65" Text="%d minute(s) left to enter Blood Castle." />
-		<Msg ID="66" Text="The Blood Castle Quest %d has started!" />
-		<Msg ID="67" Text="Infiltration into Blood Castle has failed!" />
-		<Msg ID="68" Text="The Blood Castle Quest %d starts in %d second(s)." />
-		<Msg ID="69" Text="The Blood Castle Quest %d has gained you a total of %d EXP." />
-		<Msg ID="70" Text="The Blood Castle Quest has been successfully completed by %s!" />
-		<Msg ID="71" Text="The Blood Castle Quest has been successfully concluded." />
-		<Msg ID="72" Text="Monsters eliminated!! Destroy the Castle Gates!!" />
-		<Msg ID="73" Text="The Gates of Blood Castle have been demolished!!!" />
-		<Msg ID="74" Text="you have entered Blood Castle %d" />
+		<Msg ID="10" Text="Falha. Sua pontuação é %d. Tente novamente na próxima vez." />
+		<Msg ID="11" Text="A combinação de caos está em curso." />
+		<Msg ID="12" Text="A negociação não é permitida em Devil Square." />
+		<Msg ID="13" Text="O jogo especial não está disponível" />
+		<Msg ID="14" Text="%s foi desconectado. A negociação será cancelada." />
+		<Msg ID="15" Text="Este é um item duplicado ilegal. Entre em contato com um GM." />
+		<Msg ID="16" Text="Você tem %d pontos para se livrar do status de fora da lei." />
+		<Msg ID="17" Text="Você registrou sem.%d item(s) de coração" />
+		<Msg ID="18" Text="Desculpe, mais sorte na próxima vez." />
+		<Msg ID="19" Text="%s é o vencedor de sorte do evento PangPang Love." />
+		<Msg ID="20" Text="Você vai se entrar em party com %s" />
+		<Msg ID="21" Text="%s já está em uma party." />
+		<Msg ID="22" Text="Você está se conectando como usuário free." />
+		<Msg ID="23" Text="Você tem %d minutos(s) restantes para uso de IP (%s)" />
+		<Msg ID="24" Text="Esta conta é válida até %2d %2d %4d (%s)" />
+		<Msg ID="25" Text="Este IP é válido até %2d %2d %4d (%s)" />
+		<Msg ID="26" Text="Você fez logon com uma conta pós-paga (%s)" />
+		<Msg ID="27" Text="A auto-defesa está iniciada pelo ataque de %s!" />
+		<Msg ID="28" Text="A auto defesa contra %s diminuiu." />
+		<Msg ID="29" Text="Você tem %d segundo(s) restantes antes de sair do jogo." />
+		<Msg ID="30" Text="Você deve estar acima do nível %d para acessar esta localização." />
+		<Msg ID="31" Text="Você não pode obter o item" />
+		<Msg ID="32" Text="Você está aceitando todos os pedidos de outros jogadores." />
+		<Msg ID="33" Text="Agora você está rejeitando todos os pedidos de outros jogadores." />
+		<Msg ID="34" Text="Eu não vou vender a criminosos como você !!!" />
+		<Msg ID="35" Text="Mais negócios comigo? " />
+		<Msg ID="36" Text="Procure por isso em outro lugar!" />
+		<Msg ID="37" Text="Você não tem zen." />
+		<Msg ID="38" Text="O servidor desligará automaticamente em 5 minutos." />
+		<Msg ID="39" Text="O servidor desligará automaticamente em 3 minutos." />
+		<Msg ID="40" Text="O servidor desligará automaticamente em 1 minuto." />
+		<Msg ID="41" Text="Atenção! Outro usuário está tentando se conectar usando essa conta." />
+		<Msg ID="42" Text="Configuração de defesa" />
+		<Msg ID="43" Text="Feche a janela de negociação e saia" />
+		<Msg ID="44" Text="Feche o baú e saia" />
+		<Msg ID="45" Text="Você atingiu um nível máximo" />
+		<Msg ID="46" Text="Atenção! Você se tornará um fora da lei se você matar outra pessoa novamente." />
+		<Msg ID="47" Text="O comércio foi cancelado " />
+		<Msg ID="48" Text="Você já pertence a uma guild" />
+		<Msg ID="49" Text="Seu nível deve ser, pelo menos, o nível 100" />
+		<Msg ID="50" Text="Todos os itens que você está vestindo devem ser pelo menos +7 nível." />
+		<Msg ID="51" Text="Nós não vendemos Ale aqui!" />
+		<Msg ID="52" Text="Tempos difíceis estão nos colocando fora do negócio." />
+		<Msg ID="53" Text="Não estou vendendo nada para você alguém como você." />
+		<Msg ID="54" Text="Eu não ajudarei criminosos como você! Procure em outro lugar." />
+		<Msg ID="55" Text="Feliz Natal!" />
+		<Msg ID="56" Text="Feliz Ano Novo!" />
+		<Msg ID="57" Text="A função Trade estará desativada por um tempo." />
+		<Msg ID="58" Text="Por favor, seja paciente. O comércio será ativado em breve." />
+		<Msg ID="59" Text="Feche a janela da Máquina Chaos antes de sair do jogo." />
+		<Msg ID="60" Text="Este item não pertence a você, %s" />
+		<Msg ID="61" Text="Por causa do pedido de %s, a partida terminará automaticamente em 10 segundo (s)" />
+		<Msg ID="62" Text="A partida começa automaticamente em 10 segundo(s)" />
+		<Msg ID="63" Text="Invasão do Dragões" />
+		<Msg ID="64" Text="%s, Invasão de Dragões Dourados" />
+		<Msg ID="65" Text="%d minuto(s) para entrar no Blood Castle." />
+		<Msg ID="66" Text="O Blood Castle Quest %d começou!" />
+		<Msg ID="67" Text="Infiltração no Blood Castle falhou!" />
+		<Msg ID="68" Text="O Blood Castle Quest %d começa em %d segundo(s)." />
+		<Msg ID="69" Text="O Blood Castle Quest %d ganhou um total de %d EXP." />
+		<Msg ID="70" Text="O Blood Castle Quest foi completado com sucesso por %s!" />
+		<Msg ID="71" Text="O Blood Castle Quest foi concluído com sucesso." />
+		<Msg ID="72" Text="Monstros eliminados! Destrua os portões do Castelo!!" />
+		<Msg ID="73" Text="Os portões de Blood Castle foram demolidos !!!" />
+		<Msg ID="74" Text="você entrou no Blood Castle %d" />
 		<Msg ID="75" Text="%s has acquired the Divine Staff of Archangel." />
 		<Msg ID="76" Text="%s has acquired the Divine Sword of Archangel." />
 		<Msg ID="77" Text="%s has acquired the Divine Crossbow of Archangel." />
