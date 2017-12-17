@@ -42,7 +42,7 @@
 		<Msg ID="13" Text="O jogo especial não está disponível" />
 		<Msg ID="14" Text="%s foi desconectado. A negociação será cancelada." />
 		<Msg ID="15" Text="Este é um item duplicado ilegal. Entre em contato com um GM." />
-		<Msg ID="16" Text="Você tem %d pontos para se livrar do status de fora da lei." />
+		<Msg ID="16" Text="Você tem %d pontos para se livrar do status de assassino." />
 		<Msg ID="17" Text="Você registrou sem.%d item(s) de coração" />
 		<Msg ID="18" Text="Desculpe, mais sorte na próxima vez." />
 		<Msg ID="19" Text="%s é o vencedor de sorte do evento PangPang Love." />
@@ -72,7 +72,7 @@
 		<Msg ID="43" Text="Feche a janela de negociação e saia" />
 		<Msg ID="44" Text="Feche o baú e saia" />
 		<Msg ID="45" Text="Você atingiu um nível máximo" />
-		<Msg ID="46" Text="Atenção! Você se tornará um fora da lei se você matar outra pessoa novamente." />
+		<Msg ID="46" Text="Atenção! Você se tornará um assassino se você matar outra pessoa novamente." />
 		<Msg ID="47" Text="O comércio foi cancelado " />
 		<Msg ID="48" Text="Você já pertence a uma guild" />
 		<Msg ID="49" Text="Seu nível deve ser, pelo menos, o nível 100" />
@@ -122,8 +122,8 @@
 		<Msg ID="93" Text="%s criou um desafio de duelo." />
 		<Msg ID="94" Text="%s está em um duelo." />
 		<Msg ID="95" Text="Desafiado %s para um duelo." />
-		<Msg ID="96" Text="You are already issuing a Duel challenge." />
-		<Msg ID="97" Text="Duelling is not allowed in NON-PK servers." />
+		<Msg ID="96" Text="Você já está em um desafio duelo." />
+		<Msg ID="97" Text="Duelo não é permitido em servidores NON-PK." />
 		<Msg ID="98" Text="An outlaw cannot issue a Duel challenge." />
 		<Msg ID="99" Text="You cannot Duel with an Outlaw." />
 		<Msg ID="100" Text="A duel is not allowed in Devil Square." />
