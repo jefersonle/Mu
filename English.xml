@@ -124,20 +124,20 @@
 		<Msg ID="95" Text="Desafiado %s para um duelo." />
 		<Msg ID="96" Text="Você já está em um desafio duelo." />
 		<Msg ID="97" Text="Duelo não é permitido em servidores NON-PK." />
-		<Msg ID="98" Text="An outlaw cannot issue a Duel challenge." />
-		<Msg ID="99" Text="You cannot Duel with an Outlaw." />
-		<Msg ID="100" Text="A duel is not allowed in Devil Square." />
-		<Msg ID="101" Text="%s has defeated the %s White Wizard Corps" />
-		<Msg ID="102" Text="The White Wizard and his minions are starting to assemble!" />
-		<Msg ID="103" Text="The White Wizard and his Orcs have invaded us!" />
-		<Msg ID="104" Text="The White Wizard has retreated." />
-		<Msg ID="105" Text="You already possess the Wizard's Ring." />
-		<Msg ID="106" Text="You must be over Level 40 to throw the Ring." />
-		<Msg ID="107" Text="You cannot trade while inside Blood Castle." />
-		<Msg ID="108" Text="Self-defense is active. You cannot Duel." />
-		<Msg ID="109" Text="You need to be at least Level 80 to throw the Ring." />
-		<Msg ID="110" Text="Please select correct warehouse (0-3)" />
-		<Msg ID="111" Text="Please close your warehouse first." />
+		<Msg ID="98" Text="Um assassino não pode emitir um desafio do duelo." />
+		<Msg ID="99" Text="Você não pode duelar com um assassino." />
+		<Msg ID="100" Text="Não é permitido um duelo em Devil Square." />
+		<Msg ID="101" Text="%s derrotou o %s White Wizard Corps" />
+		<Msg ID="102" Text="O White Wizard e seus minions estão começando a nascer!" />
+		<Msg ID="103" Text="O White Wizard e seus Orcs nos invadiram!" />
+		<Msg ID="104" Text="O White Wizard recuou." />
+		<Msg ID="105" Text="Você já possui o Wizard's Ring." />
+		<Msg ID="106" Text="Você deve estar acima do Nível 40 para jogar o Anel." />
+		<Msg ID="107" Text="Você não pode fazer trocas dentro do Blood Castle." />
+		<Msg ID="108" Text="Auto-defesa está ativa. Você não pode Duelar." />
+		<Msg ID="109" Text="Você precisa ter pelo menos o Nível 80 para jogar o Anel." />
+		<Msg ID="110" Text="Selecione o baú correto (0-10)" />
+		<Msg ID="111" Text="Por favor, feche seu baú primeiro." />
 		<Msg ID="112" Text="You cannot use the Chaos Machine while your Personal Shop is open." />
 		<Msg ID="113" Text="All items in your Personal Shop have been sold!" />
 		<Msg ID="114" Text="You cannot trade inside Chaos Castle." />
