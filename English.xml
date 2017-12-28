@@ -138,96 +138,96 @@
 		<Msg ID="109" Text="Você precisa ter pelo menos o Nível 80 para jogar o Anel." />
 		<Msg ID="110" Text="Selecione o baú correto (0-10)" />
 		<Msg ID="111" Text="Por favor, feche seu baú primeiro." />
-		<Msg ID="112" Text="You cannot use the Chaos Machine while your Personal Shop is open." />
-		<Msg ID="113" Text="All items in your Personal Shop have been sold!" />
-		<Msg ID="114" Text="You cannot trade inside Chaos Castle." />
-		<Msg ID="115" Text="You cannot open your Personal Shop within Chaos Castle." />
-		<Msg ID="116" Text="Party cannot be formed within Chaos Castle." />
-		<Msg ID="117" Text="Guild War cannot be waged within Chaos Castle." />
-		<Msg ID="118" Text="You cannot enter Chaos Castle from here." />
-		<Msg ID="119" Text="Outlaws are not permitted to enter Chaos Castle." />
-		<Msg ID="120" Text="You cannot enter Chaos Castle while in a duel." />
-		<Msg ID="121" Text="You cannot enter Chaos Castle while in a guild war." />
-		<Msg ID="122" Text="You cannot enter Chaos Castle while riding a beast." />
-		<Msg ID="123" Text="You cannot enter Chaos Castle while wearing a transformation ring." />
-		<Msg ID="124" Text="You have entered Chaos Castle %d." />
-		<Msg ID="125" Text="Duels are not allowed within Chaos Castle." />
-		<Msg ID="126" Text="%d minute(s) left before Chaos Castle starts." />
-		<Msg ID="127" Text="Chaos Castle %d has already commenced!" />
-		<Msg ID="128" Text="The Spirits of the Guardsmen have been exorcised. Quest complete!" />
-		<Msg ID="129" Text="You have failed to complete the Quest. Summon more courage and try again." />
-		<Msg ID="130" Text="Not enough warriors to start the Chaos Castle Quest." />
-		<Msg ID="131" Text="Chaos Castle %d: %s has been granted entry for a fee of %d Zen." />
-		<Msg ID="132" Text="Skill can be used by party leader only" />
-		<Msg ID="133" Text="Please close the window or Personal Shop that's currently opened" />
-		<Msg ID="134" Text="Magic skill cast will remain for %d seconds(s)." />
-		<Msg ID="135" Text="Will be summoned in %d seconds." />
-		<Msg ID="136" Text="%d players will be summoned." />
-		<Msg ID="137" Text="Exp is unobtainable because you are unable to command the Raven." />
-		<Msg ID="138" Text="Exp is unobtainable because you cannot command the Dark Horse." />
-		<Msg ID="139" Text="Chat Block: %d minute(s) remaining." />
-		<Msg ID="140" Text="Magic Stones have already been conjured." />
-		<Msg ID="141" Text="You cannot use your Siege battle skills in this location." />
-		<Msg ID="142" Text="You have exceeded the amount of Zen you can possess." />
-		<Msg ID="143" Text="Summoning in process. It may be cancelled if you move." />
-		<Msg ID="144" Text="You do not meet some criteria and cannot be warped" />
-		<Msg ID="145" Text="Disconnect only after closing the Training window." />
-		<Msg ID="146" Text="Summoning cancelled." />
-		<Msg ID="147" Text="The skill cannot be used during Imperial Guardian event" />
-		<Msg ID="148" Text="You have %d points remaining. You next payment period is on %s.%s.%s at %s:%s (%s)." />
-		<Msg ID="149" Text="You can play until %s.%s.%s with your current balance (%s)." />
-		<Msg ID="150" Text="You are logged in as Free Player" />
-		<Msg ID="151" Text="Your account is expired. You will exit the game automatically." />
-		<Msg ID="152" Text="You are currently being disconnected. Please check your account credits. " />
-		<Msg ID="153" Text="You are currently not able to warp." />
-		<Msg ID="154" Text="You need %d Zen to use your vault." />
-		<Msg ID="155" Text="The vault is locked." />
-		<Msg ID="156" Text="%s has won the %s" />
-		<Msg ID="157" Text="Siege Warfare registration period commences." />
-		<Msg ID="158" Text="All participating guilds for Siege Warfare: please register your Emblem of Lord." />
-		<Msg ID="159" Text="The Guild selection period for Siege Warfare commences." />
-		<Msg ID="160" Text="Guilds have now been selected for Siege Warfare." />
-		<Msg ID="161" Text="The Siege Warfare preparation period begins! All the guild members, please get ready." />
-		<Msg ID="162" Text="Siege Warfare is being waged!" />
-		<Msg ID="163" Text="Siege Warfare has been concluded." />
-		<Msg ID="164" Text="It is not the designated time to man the castle." />
-		<Msg ID="165" Text="Only the castle Lord can issue commands for the castle." />
-		<Msg ID="166" Text="Castle information is unavailable at the moment." />
-		<Msg ID="167" Text="The Guardian Statue still stands! You may not enter." />
-		<Msg ID="168" Text="Only the Siege Warfare participants may enter." />
-		<Msg ID="169" Text="Only the Guild members of the Castle Lord may enter." />
-		<Msg ID="170" Text="This is not a map of the Offensive Alliance." />
-		<Msg ID="171" Text="Only the Defensive Alliance can be summoned." />
-		<Msg ID="172" Text="Only the Guild Master and Assistant Master can summon Soldiers." />
-		<Msg ID="173" Text="Soldiers can be summoned only after the Siege begins." />
-		<Msg ID="174" Text="The maximum number of Soldiers has been exceeded." />
+		<Msg ID="112" Text="Você não pode usar o Chaos Machine enquanto a sua Loja pessoal está aberta." />
+		<Msg ID="113" Text="Todos os itens da sua loja pessoal foram vendidos!" />
+		<Msg ID="114" Text="Você não pode fazer trocas dentro do Chaos Castle" />
+		<Msg ID="115" Text="Você não pode abrir sua loja pessoal dentro do Chaos Castle." />
+		<Msg ID="116" Text="Uma party não pode ser formada dentro do Chaos Castle." />
+		<Msg ID="117" Text="Guild War não pode ser travada no Chaos Castle." />
+		<Msg ID="118" Text="Você não pode entrar no Chaos Castle daqui." />
+		<Msg ID="119" Text="Assassinos não são permitidos no Chaos Castle" />
+		<Msg ID="120" Text="Você não pode entrar no Chaos Castle enquanto estiver em duelo." />
+		<Msg ID="121" Text="Você não pode entrar no Chaos Castle enquanto estiver em uma guild war." />
+		<Msg ID="122" Text="Você não pode entrar no Chaos Castle montado em uma besta." />
+		<Msg ID="123" Text="Você não pode entrar no Chaos Castle enquanto usa um anel de transformação." />
+		<Msg ID="124" Text="Você entrou no Chaos Castle %d." />
+		<Msg ID="125" Text="Duelos não são permitidos dentro do Chaos Castle." />
+		<Msg ID="126" Text="%d minuto(s) antes do Chaos Castle começar." />
+		<Msg ID="127" Text="Chaos Castle %d já começou!" />
+		<Msg ID="128" Text="Os espíritos dos guardas foram exorcizados. A quest está completa!" />
+		<Msg ID="129" Text="Você não conseguiu completar a Quest. Tenha mais coragem e tentar novamente." />
+		<Msg ID="130" Text="Não há guerreiros suficientes para começar a Chaos Castle Quest." />
+		<Msg ID="131" Text="Chaos Castle %d: %s foi concedida a entrada por uma taxa de %d Zen." />
+		<Msg ID="132" Text="A skill só pode ser usada pelo líder da party" />
+		<Msg ID="133" Text="Por favor, feche a janela ou loja pessoal que está atualmente aberta" />
+		<Msg ID="134" Text="Magic skill cast permanecerá por %d segundos (s)." />
+		<Msg ID="135" Text="Será convocado em %d segundos." />
+		<Msg ID="136" Text="%d jogadores serão convocados." />
+		<Msg ID="137" Text="Exp não é possível porque você não consegue controlar o Raven." />
+		<Msg ID="138" Text="Exp não é possível porque você não pode controlar o Dark Horse." />
+		<Msg ID="139" Text="Chat Bloqueado: %d minuto(s) restantes." />
+		<Msg ID="140" Text="Magic Stones já foi conjurado." />
+		<Msg ID="141" Text="Você não pode usar suas skills de batalha Siege neste local." />
+		<Msg ID="142" Text="Você excedeu a quantidade de Zen que você pode possuir." />
+		<Msg ID="143" Text="Convocação em processo. Pode ser cancelado se você mudar de mapa." />
+		<Msg ID="144" Text="Você não cumpre alguns critérios e não pode ser deformado" />
+		<Msg ID="145" Text="Desconecte apenas depois de fechar a janela Training." />
+		<Msg ID="146" Text="Invocação cancelada." />
+		<Msg ID="147" Text="A skill não pode ser usada durante o evento Imperial Guardian" />
+		<Msg ID="148" Text="Você tem %d pontos restantes. O próximo período de pagamento é em %s. %s. %s em %s: %s (%s)." />
+		<Msg ID="149" Text="Você pode jogar até %s/%s/%s com seu saldo atual (%s)." />
+		<Msg ID="150" Text="Você está logado como Free Player" />
+		<Msg ID="151" Text="Sua conta expirou. Você vai sair do jogo automaticamente." />
+		<Msg ID="152" Text="Você está atualmente sendo desconectado. Verifique os créditos da sua conta. " />
+		<Msg ID="153" Text="Atualmente, você não pode se deformar." />
+		<Msg ID="154" Text="Você precisa de %d Zen para usar seu baú." />
+		<Msg ID="155" Text="O baú está bloqueado." />
+		<Msg ID="156" Text="%s venceu %s" />
+		<Msg ID="157" Text="O período de registro da Siege Warfare começou." />
+		<Msg ID="158" Text="Todas as guilds participantes da Siege Warfare: registre seu Emblem of Lord." />
+		<Msg ID="159" Text="O período de seleção de Guild para a Siege Warfare começou." />
+		<Msg ID="160" Text="Guilds já foram selecionados para a Siege Warfare." />
+		<Msg ID="161" Text="Começa o período de preparação da Siege Warfare! Todos os membros da aliança, preparem-se." />
+		<Msg ID="162" Text="Siege Warfare está sendo travada!" />
+		<Msg ID="163" Text="Siege Warfare foi concluída." />
+		<Msg ID="164" Text="Não é o horário designado para dirigir o castelo." />
+		<Msg ID="165" Text="Somente o senhor do castelo pode emitir comandos para o castelo." />
+		<Msg ID="166" Text="As informações do castelo não estão disponíveis no momento." />
+		<Msg ID="167" Text="A estátua do guardião ainda está em pé! Você não pode entrar." />
+		<Msg ID="168" Text="Somente os participantes da Siege Warfare podem entrar." />
+		<Msg ID="169" Text="Somente os membros do Guild do Senhor do Castelo podem entrar." />
+		<Msg ID="170" Text="Este não é um mapa da Aliança ofensiva." />
+		<Msg ID="171" Text="Somente a Aliança Defensiva pode ser convocada." />
+		<Msg ID="172" Text="Somente o Guild Master e o Assistant Master podem convocar soldados." />
+		<Msg ID="173" Text="Os soldados só podem ser convocados após o início do cerco." />
+		<Msg ID="174" Text="O número máximo de soldados foi excedido." />
 		<Msg ID="175" Text="Summon Guardian" />
-		<Msg ID="176" Text="Can only be used by the Offensive Alliance." />
-		<Msg ID="177" Text="You cannot summon the Life Stone after the Siege begins." />
-		<Msg ID="178" Text="You cannot summon the Life Stone inside the Dragon Tower." />
-		<Msg ID="179" Text="You cannot summon the Life Stone after the Siege begins." />
-		<Msg ID="180" Text="Life Stone summon succeeded!" />
-		<Msg ID="181" Text="Life Stone summon failed!" />
-		<Msg ID="182" Text="Join the %s Alliance." />
-		<Msg ID="183" Text="The Hostile status against %s has been concluded." />
-		<Msg ID="184" Text="The %s Guild is joining the %s Alliance." />
-		<Msg ID="185" Text="Withdraw from the Alliance." />
-		<Msg ID="186" Text="%s Guild will withdraw from the %s Alliance." />
-		<Msg ID="187" Text="Withdraw from the %s Alliance." />
-		<Msg ID="188" Text="Hostile status with %s has been cancelled" />
-		<Msg ID="189" Text="The %s Alliance will be removed." />
-		<Msg ID="190" Text="%s's position has been changed to Battle Master." />
-		<Msg ID="191" Text="%s's position has been changed to Guild Member." />
-		<Msg ID="192" Text="The %s Guild type has been changed to %d " />
-		<Msg ID="193" Text="Siege Warfare will start in %d minute(s)." />
-		<Msg ID="194" Text="Owner Guild cannot be removed." />
-		<Msg ID="195" Text="You can join the guild after the siege starts." />
-		<Msg ID="196" Text="Leaving the guild is not allowed after Siege Warfare has begun." />
-		<Msg ID="197" Text="Join guild is not allowed on Announcement period." />
-		<Msg ID="198" Text="%s guild has succeeded in defending the castle." />
-		<Msg ID="199" Text="%s guild became a new castle lord." />
-		<Msg ID="200" Text="The castle lord has not been assigned." />
-		<Msg ID="201" Text="Only the Guardian statue has been left." />
+		<Msg ID="176" Text="Só pode ser usado pela Aliança ofensiva." />
+		<Msg ID="177" Text="Você não pode convocar a Life Stone após o cerco começar." />
+		<Msg ID="178" Text="Você não pode convocar a pedra da vida dentro da Dragon Tower." />
+		<Msg ID="179" Text="Você não pode convocar a Life Stone após o cerco começar." />
+		<Msg ID="180" Text="Convocação de Life Stone concluída com sucesso!" />
+		<Msg ID="181" Text="O Convocação da Life Stone falhou!" />
+		<Msg ID="182" Text="Junte-se a Aliança %s." />
+		<Msg ID="183" Text="Hostilidade contra %s foi concluída." />
+		<Msg ID="184" Text="A Guild %s está se juntando à Aliança %s." />
+		<Msg ID="185" Text="Retirar-se da Aliança." />
+		<Msg ID="186" Text="A Guild %s irá retirar-se da Aliança %s." />
+		<Msg ID="187" Text="Retirar-se da Aliança %s." />
+		<Msg ID="188" Text="O status hostil com %s foi cancelado" />
+		<Msg ID="189" Text="A Aliança %s será removida." />
+		<Msg ID="190" Text="A posição de %s foi alterada para Battle Master." />
+		<Msg ID="191" Text="A posição de %s foi alterada para Guild Member." />
+		<Msg ID="192" Text="O tipo da Guild %s foi alterado para %d" />
+		<Msg ID="193" Text="Siege Warfare começará em %d minuto(s)." />
+		<Msg ID="194" Text="O proprietário da Guild não pode ser removido." />
+		<Msg ID="195" Text="Você pode se juntar à guild após o cerco começar." />
+		<Msg ID="196" Text="Deixar a guild não é permitido depois que o Siege Warfare começou." />
+		<Msg ID="197" Text="A entrada na guild não é permitida no período do Anúncio." />
+		<Msg ID="198" Text="A guild %s conseguiu defender o castelo." />
+		<Msg ID="199" Text="A guild %s tornou-se o novo senhor do castelo." />
+		<Msg ID="200" Text="O senhor do castelo não foi designado." />
+		<Msg ID="201" Text="Somente a estátua Guardian foi deixada." />
 		<Msg ID="202" Text="Dark Wizard" />
 		<Msg ID="203" Text="Dark Knight" />
 		<Msg ID="204" Text="Fairy Elf" />
@@ -235,74 +235,74 @@
 		<Msg ID="206" Text="Dark Lord" />
 		<Msg ID="207" Text="Summoner" />
 		<Msg ID="208" Text="Rage Fighter" />
-		<Msg ID="209" Text="Santa came to the wrong continent Mu! Help the Santa!" />
-		<Msg ID="210" Text="%d minutes to Santa come for the second time." />
-		<Msg ID="211" Text="You need to be level %d to be able to enter Santa's Village." /> <!-- checks entry level from Gate index: 22 -->
-		<Msg ID="212" Text="%s's position has been changed to Assistant Master." />
-		<Msg ID="213" Text="Loren Deep Event will start after 5 minute(s)" />
-		<Msg ID="214" Text="Loren Deep Event has started." />
-		<Msg ID="215" Text="You are the hero that will help rid the MU continent of Kundun's evil forces.God Bless you!" />
-		<Msg ID="216" Text="%s has pushed back the attack of %s at Loren pass" />
-		<Msg ID="217" Text="The attack of %s has been pushed back at Loren pass" />
-		<Msg ID="218" Text="%s has pushed back the attack of Erohim's army at Loren pass" />
-		<Msg ID="219" Text="The attack of Erohim's army has been pushed back at Loren pass" />
-		<Msg ID="220" Text="Balgass has join forces with Kundun's army and preparing to attack Crywolf Fortress." />
-		<Msg ID="221" Text="The army of Balgass is ready to attack Crywolf Fortress" />
-		<Msg ID="222" Text="The army of Balgass is marching towards Crywolf Fortress" />
-		<Msg ID="223" Text="The army of Balgass is marching towards Crywolf Fortress" />
-		<Msg ID="224" Text="Without the protection of the Muses, the statue of holy wolf will be stolen" />
-		<Msg ID="225" Text="Balgass will be alive till the end of the battle" />
-		<Msg ID="226" Text="Defending has failed! The statue of holy wolf has been taken over by Balgass" />
-		<Msg ID="227" Text="Defending has been successful! The statue of holy wolf has been protected." />
-		<Msg ID="228" Text="Wolf Altar contraction starts in %d second(s)" />
-		<Msg ID="229" Text="Wolf Altar contraction begins in %d minute(s)" />
-		<Msg ID="230" Text="Balgass' army will begin attack in %d second(s)" />
-		<Msg ID="231" Text="Balgass' army will attack in %d minute(s)." />
-		<Msg ID="232" Text="Without the protection of the Muses, the statue of holy wolf will be stolen" />
-		<Msg ID="233" Text="Balgass is coming! Protect the statue of holy wolf" />
-		<Msg ID="234" Text="Balgass's army starts attacking the statue of holy wolf" />
-		<Msg ID="235" Text="Balgass has been defeated with the help of heroes" />
+		<Msg ID="209" Text="Santa chegou ao continente errado Mu! Ajude o Papai Noel!" />
+		<Msg ID="210" Text="%d minutos para Santa vir pela segunda vez." />
+		<Msg ID="211" Text="Você precisa ter nível %d para poder entrar no Santa's Village." /> <!-- checks entry level from Gate index: 22 -->
+		<Msg ID="212" Text="A posição de %s foi alterada para Assistant Master." />
+		<Msg ID="213" Text="O Evento de Loren Deep começará em 5 minuto (s)" />
+		<Msg ID="214" Text="O Evento de Loren Deep começou." />
+		<Msg ID="215" Text="Você é o herói que ajudará a livrar o continente MU das forças do mal de Kundun. Deus o abençoe!" />
+		<Msg ID="216" Text="%s empurrou o ataque de %s na passagem de Loren Deep" />
+		<Msg ID="217" Text="O ataque de %s foi recuado na passagem de Loren Deep" />
+		<Msg ID="218" Text="%s empurrou o ataque do exército de Erohim na passagem de Loren Deep" />
+		<Msg ID="219" Text="O ataque do exército de Erohim foi recuado na passagem de Loren Deep" />
+		<Msg ID="220" Text="Balgass uniu forças com o exército de Kundun e se preparou para atacar a Fortaleza de Crywolf." />
+		<Msg ID="221" Text="O exército de Balgass está pronto para atacar a Fortaleza de Crywolf" />
+		<Msg ID="222" Text="To exército de Balgass está marchando em direção a Fortaleza de Crywolf" />
+		<Msg ID="223" Text="O exército de Balgass está marchando em direção a Fortaleza de Crywolf" />
+		<Msg ID="224" Text="Sem a proteção das Muses, a estátua do lobo sagrado será roubada" />
+		<Msg ID="225" Text="Balgass estará vivo até o final da batalha" />
+		<Msg ID="226" Text="A Defesa falhou! A estátua do lobo sagrado foi tomada por Balgass" />
+		<Msg ID="227" Text="A Defesa da Fortaleza foi bem sucedida! A estátua do lobo sagrado foi protegida." />
+		<Msg ID="228" Text="Os contratos com Wolf Altar começam em %d segundo(s)" />
+		<Msg ID="229" Text="Os contratos com Wolf Altar começam em %d minuto (s)" />
+		<Msg ID="230" Text="O exército de Balgass começará a atacar em %d segundo (s)" />
+		<Msg ID="231" Text="O exército de Balgass atacará em %d minuto(s)." />
+		<Msg ID="232" Text="Sem a proteção das Muses, a estátua do lobo sagrado será roubada" />
+		<Msg ID="233" Text="Balgass está chegando! Proteja a estátua do lobo sagrado" />
+		<Msg ID="234" Text="O exército de Balgass começou a atacar a estátua do lobo sagrado" />
+		<Msg ID="235" Text="Balgass foi derrotado com a ajuda dos heróis" />
 		<Msg ID="236" Text="MvP rank: (%d)" />
-		<Msg ID="237" Text="MvP rank: experience points (%d)" />
-		<Msg ID="238" Text="Prepare for the attack of Balgass's army on Crywolf Fortress" />
-		<Msg ID="239" Text="Balgass has been killed by %s!" />
-		<Msg ID="240" Text="Balgass is dead" />
-		<Msg ID="241" Text="The Dark Elf leader (%d) of Balgass's army has need killed by %s" />
-		<Msg ID="242" Text="Current MvP point is : %d" />
-		<Msg ID="243" Text="Connected to the pedestal (%d) of the Holy wolf" />
-		<Msg ID="244" Text="(%s) connected the Muse to the pedestal (%d)" />
-		<Msg ID="245" Text="The pedestal (%d) of Holy wolf has been connected" />
-		<Msg ID="246" Text="The connecting time of pedestal (%d) has not started yet" />
-		<Msg ID="247" Text="The time for connecting to pedestal (%d) of the holy wolf is over" />
-		<Msg ID="248" Text="The position to connect to pedestal (%d) of the holy wolf is incorrect. Try again" />
-		<Msg ID="249" Text="%s is trying to contract altar %d!" />
-		<Msg ID="250" Text="You can start connecting in 5 seconds" />
-		<Msg ID="251" Text="Do not move until the connecting is completed." />
-		<Msg ID="252" Text="Connecting to the pedestal (%d) is cancelled." />
-		<Msg ID="253" Text="The barrier of the holy wolf statue has disappeared" />
-		<Msg ID="254" Text="Statistics of Muses in the holy wolf statue's barrier is %d, HP: %d" />
-		<Msg ID="255" Text="The barrier of the Holy Wolf statue has been created." />
-		<Msg ID="256" Text="Connection requires a Muse level %d or higher" />
-		<Msg ID="257" Text="The life of Fenrir is %d" />
-		<Msg ID="258" Text="The regeneration of life has failed" />
-		<Msg ID="259" Text="Unable to use" />
-		<Msg ID="260" Text="Will lead to tower of the refinement road after 1 hour again seal." />
-		<Msg ID="261" Text="Because the unlucky strength transmits to tower of the refinement, after 20 minutes will force to return the ridge security area." />
-		<Msg ID="262" Text="[Kanturu] The Gateway Machine opens in 1 minute." />
-		<Msg ID="263" Text="[Kanturu] Next battle will start in 1 minute." />
-		<Msg ID="264" Text="Defeat the Nightmare that controls the Maya to gain entrance to the Refinery." />
-		<Msg ID="265" Text="Has defeated the Nightmare Boss. You may now proceed to the Refinery Tower." />
-		<Msg ID="266" Text="Because will limit the time crossed, will force to return the ridge security area." />
-		<Msg ID="267" Text="The strengthened goods are unable to sell." />
-		<Msg ID="268" Text="The strengthened goods are unable to use individual store." />
-		<Msg ID="269" Text="Because the goods rank too is low, is unable to continue to strengthen." />
-		<Msg ID="270" Text="Already strengthened for the fiercest value, was unable to continue to strengthen." />
-		<Msg ID="271" Text="Because the goods rank is lower than strengthens the condition, is unable to use." />
-		<Msg ID="272" Text="The strengthened goods are unable to fall." />
-		<Msg ID="273" Text="The coverall goods are unable to carry on the strengthening." />
-		<Msg ID="274" Text="Regeneration gem strengthening defeat." />
-		<Msg ID="275" Text="The regeneration gem strengthens successfully." />
-		<Msg ID="276" Text="Strengthened evolution gem defeat." />
+		<Msg ID="237" Text="MvP rank: pontos de exp (%d)" />
+		<Msg ID="238" Text="Prepare-se para o ataque do exército de Balgass à Fortaleza de Crywolf" />
+		<Msg ID="239" Text="Balgass foi morto por %s!" />
+		<Msg ID="240" Text="Balgass está morto" />
+		<Msg ID="241" Text="O líder Dark Elf (%d) do exército de Balgass precisa ser morta por %s" />
+		<Msg ID="242" Text="Os pontos MvP atuais são : %d" />
+		<Msg ID="243" Text="Conectado ao pedestal (%d) do lobo sagrado" />
+		<Msg ID="244" Text="(%s) conectou a Muse ao pedestal (%d)" />
+		<Msg ID="245" Text="O pedestal (%d) do lobo sagrado foi conectado" />
+		<Msg ID="246" Text="O tempo de conexão ao pedestal (%d) ainda não começou" />
+		<Msg ID="247" Text="O tempo de conexão ao pedestal (%d) do lobo sagrado acabou" />
+		<Msg ID="248" Text="A posição para se conectar ao pedestal (%d) do lobo sagrado está incorreta. Tente novamente" />
+		<Msg ID="249" Text="%s está tentando fazer o contrato com o altar %d!" />
+		<Msg ID="250" Text="Você pode começar a se conectar em 5 segundos" />
+		<Msg ID="251" Text="Não se mova até que a conexão seja concluída." />
+		<Msg ID="252" Text="A conexão ao pedestal (%d) está cancelada." />
+		<Msg ID="253" Text="A barreira da sagrada estátua do lobo desapareceu" />
+		<Msg ID="254" Text="A estatística de Muses na barreira da estátua sagrada é %d, HP:%d" />
+		<Msg ID="255" Text="A barreira da estátua do Lobo Sagrado foi criada." />
+		<Msg ID="256" Text="A conexão requer um nível de muse %d ou superior" />
+		<Msg ID="257" Text="A vida de Fenrir é %d" />
+		<Msg ID="258" Text="A regeneração de vida falhou" />
+		<Msg ID="259" Text="Não é possível usar" />
+		<Msg ID="260" Text="Levará a torre da estrada de refinamento após 1 hora novamente de vedação." />
+		<Msg ID="261" Text="Por causa da força desafortunada transmitida à torre do refinamento, após 20 minutos forçará a retornar a área de segurança do cume." />
+		<Msg ID="262" Text="[Kanturu] A Gateway Machine estará aberta em 1 minuto." />
+		<Msg ID="263" Text="[Kanturu] A próxima batalha começará em 1 minuto." />
+		<Msg ID="264" Text="Derrote o Nightmare que controla os Mayas para entrar em Refinery." />
+		<Msg ID="265" Text="Nightmare Boss Derrotado. Agora você pode prosseguir para a Torre de Refinaria." />
+		<Msg ID="266" Text="Por causa do limeite do tempo cruzado, forçará a retornar a área de segurança do cume.." />
+		<Msg ID="267" Text="Os bens fortalecidos são incapazes de se vender." />
+		<Msg ID="268" Text="Os bens reforçados são incapazes de se usar na loja individual." />
+		<Msg ID="269" Text="Por causa da classificação dos produtos também ser baixa, é impossível continuar a fortalecer." />
+		<Msg ID="270" Text="Já fortalecido pelo valor mais feroz, não foi possível continuar a fortalecer." />
+		<Msg ID="271" Text="Como a classificação de mercadorias é menor do que a condição de força, é indisponível para uso." />
+		<Msg ID="272" Text="Os bens reforçados não podem de cair." />
+		<Msg ID="273" Text="Os bens da capa são incapazes de continuar o fortalecimento." />
+		<Msg ID="274" Text="Regeneração gem que fortalece a derrota." />
+		<Msg ID="275" Text="A gema de regeneração se fortaleceu com sucesso." />
+		<Msg ID="276" Text="Reforçada evolução gem derrota." />
 		<Msg ID="277" Text="The strengthened evolution gem is successful." />
 		<Msg ID="278" Text="The goods which is not smelts when fossil uses." />
 		<Msg ID="279" Text="The refinement system is unable to use." />
