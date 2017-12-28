@@ -714,8 +714,8 @@
 		<Msg ID="40" Text="Silent Map" />
 		<Msg ID="41" Text="Barracks of Balgass" />
 		<Msg ID="42" Text="Balgass Refuge" />
-		<Msg ID="43" Text="Empty" />
-		<Msg ID="44" Text="Empty" />
+		<Msg ID="43" Text="Vazio" />
+		<Msg ID="44" Text="Vazio" />
 		<Msg ID="45" Text="Illusion Temple 1" />
 		<Msg ID="46" Text="Illusion Temple 2" />
 		<Msg ID="47" Text="Illusion Temple 3" />
@@ -725,17 +725,17 @@
 		<Msg ID="51" Text="Elbeland" />
 		<Msg ID="52" Text="Blood Castle 8" />
 		<Msg ID="53" Text="Chaos Castle 7" />
-		<Msg ID="54" Text="Empty" />
-		<Msg ID="55" Text="Empty" />
+		<Msg ID="54" Text="Vazio" />
+		<Msg ID="55" Text="Vazio" />
 		<Msg ID="56" Text="Swamp of Calmness" />
 		<Msg ID="57" Text="Raklion" />
 		<Msg ID="58" Text="Hatchery" />
-		<Msg ID="59" Text="Empty" />
-		<Msg ID="60" Text="Empty" />
-		<Msg ID="61" Text="Empty" />
+		<Msg ID="59" Text="Vazio" />
+		<Msg ID="60" Text="Vazio" />
+		<Msg ID="61" Text="Vazio" />
 		<Msg ID="62" Text="Santa Village" />
 		<Msg ID="63" Text="Vulcanus" />
-		<Msg ID="64" Text="Duel Area" />
+		<Msg ID="64" Text="Area de Duelos" />
 		<Msg ID="65" Text="Dopple Ganger Snow" />
 		<Msg ID="66" Text="Dopple Ganger Volcan" />
 		<Msg ID="67" Text="Dopple Ganger Sea" />
@@ -747,24 +747,24 @@
 		<Msg ID="79" Text="Loren Market" />
 		<Msg ID="80" Text="Karutan 1" />
 		<Msg ID="81" Text="Karutan 2" />
-		<Msg ID="82" Text="Empty" />
-		<Msg ID="83" Text="Empty" />
-		<Msg ID="84" Text="Empty" />
-		<Msg ID="85" Text="Empty" />
-		<Msg ID="86" Text="Empty" />
-		<Msg ID="87" Text="Empty" />
-		<Msg ID="88" Text="Empty" />
-		<Msg ID="89" Text="Empty" />
-		<Msg ID="90" Text="Empty" />
+		<Msg ID="82" Text="Vazio" />
+		<Msg ID="83" Text="Vazio" />
+		<Msg ID="84" Text="Vazio" />
+		<Msg ID="85" Text="Vazio" />
+		<Msg ID="86" Text="Vazio" />
+		<Msg ID="87" Text="Vazio" />
+		<Msg ID="88" Text="Vazio" />
+		<Msg ID="89" Text="Vazio" />
+		<Msg ID="90" Text="Vazio" />
 		<Msg ID="91" Text="Acheron" />
 		<Msg ID="92" Text="Arca Battle" />
-		<Msg ID="93" Text="Empty" />
-		<Msg ID="94" Text="Empty" />
+		<Msg ID="93" Text="Vazio" />
+		<Msg ID="94" Text="Vazio" />
 		<Msg ID="95" Text="Debenter" />
 		<Msg ID="96" Text="Debenter (Arca Battle)" />
-		<Msg ID="97" Text="Empty" />
-		<Msg ID="98" Text="Empty" />
-		<Msg ID="99" Text="Empty" />
+		<Msg ID="97" Text="Vazio" />
+		<Msg ID="98" Text="Vazio" />
+		<Msg ID="99" Text="Vazio" />
 		<Msg ID="100" Text="Urk Mountain" />
 		<Msg ID="101" Text="Urk Mountain" />
 		<Msg ID="102" Text="Tormented Square" />
